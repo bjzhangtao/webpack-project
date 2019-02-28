@@ -1,7 +1,9 @@
+@import "../components/layer/layer.scss";
 html, body {
     padding: 0;
     margin: 0;
     background-color: green;
+    background-image: url('../assets/logo.png');
 }
 
 ul, li {
